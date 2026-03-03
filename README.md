@@ -309,10 +309,10 @@ Contributions welcome! This project focuses on filling real gaps in the Bruin ec
 
 To maintain focus and avoid feature bloat:
 
-❌ **Real-time monitoring** - Competes with Bruin Cloud
-❌ **Column-level lineage** - Already in Bruin CLI
-❌ **Data quality dashboard** - Already in Bruin
-❌ **Cost tracking** - Requires cloud integration
+- ❌ **Real-time monitoring** - Competes with Bruin Cloud
+- ❌ **Column-level lineage** - Already in Bruin CLI
+- ❌ **Data quality dashboard** - Already in Bruin
+- ❌ **Cost tracking** - Requires cloud integration
 
 ### How to Contribute
 
