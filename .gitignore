@@ -1,0 +1,31 @@
+# .bruin.yml
+# logs/runs
+# logs/*.log
+# __pycache__/
+# *.py[cod]
+
+# # DuckDB
+# duckdb.db
+
+# # Python packaging
+# dist/
+# build/
+# *.egg-info/
+# bruin_visualizer.egg-info/
+
+# # Generated files
+# pipeline_graph.json
+# test_graph.json
+# bruin_history.db
+
+# # IDE
+# .vscode/
+# .idea/
+# *.swp
+# *.swo
+
+.bruin.yml
+logs/runs
+logs/*.log
+__pycache__/
+*.py[cod]
